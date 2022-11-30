@@ -1,9 +1,8 @@
 package main
 
 import (
-	"html/template"
-	//"fmt"
 	"errors"
+	"html/template"
 	"log"
 	"net/http"
 	"os"
